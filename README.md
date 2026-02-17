@@ -1,7 +1,6 @@
 # Kinematics Calculation and SECAR PID
 
-_This README file is AI-generated_
-_This code is an adaptation of original scripts from Ruchi Garg_
+_This README file is AI-generated_. _This code is an adaptation of original scripts by Ruchi Garg_
 
 ## Overview
 
